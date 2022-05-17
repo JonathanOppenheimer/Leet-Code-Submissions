@@ -37,14 +37,14 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
     }
     l2 = l2_head; 
     
-    bool add_one = false; 
-    int loop_end = l1_length >= l2_length ? l1_length : l2_length; 
-    
     struct ListNode* final_sum = malloc(sizeof(struct ListNode)); 
     assert(final_sum != NULL);
     final_sum->val = 0; 
     final_sum->next = NULL;
     struct ListNode* final_sum_head = final_sum; 
+    
+    bool add_one = false; 
+    int loop_end = l1_length >= l2_length ? l1_length : l2_length; 
     for(int i=0; i<loop_end; i++) {
         int sum = 0;   
         if(!(i > l1_length - 1)) {
@@ -52,8 +52,7 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
         }
          if(!(i > l2_length - 1)) {
             sum = sum + l2_array[i]; 
-        }
-            
+        } 
         if(add_one) {
             sum = sum + 1; 
             add_one = false; 
@@ -70,9 +69,9 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
             nextNode->next = NULL;
             final_sum->next = nextNode; 
             final_sum = final_sum->next; 
-        } 
-        printf("%d\n", sum); 
+        }
     }
+    
     if(add_one) {
         struct ListNode* nextNode = malloc(sizeof(struct ListNode)); 
         assert(nextNode != NULL);
@@ -81,5 +80,6 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
         final_sum->next = nextNode; 
         final_sum = final_sum->next; 
     }
+    
     return final_sum_head; 
  }
