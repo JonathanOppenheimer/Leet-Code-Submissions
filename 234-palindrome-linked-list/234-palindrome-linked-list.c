@@ -13,7 +13,6 @@ struct double_list {
 };
 
 
-
 bool isPalindrome(struct ListNode* head){
     struct ListNode* head_head = head; 
     struct double_list* doubly = malloc(sizeof(struct double_list));
@@ -25,7 +24,6 @@ bool isPalindrome(struct ListNode* head){
         doubly->next = temp; 
         temp->prev = doubly; 
         doubly = doubly->next; 
-        
         head=head->next; 
     }
     head = head_head; 
