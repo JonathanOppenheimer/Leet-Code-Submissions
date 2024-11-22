@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -88,6 +90,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
@@ -120,6 +123,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -127,6 +131,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 ## Hash Table
 |  |
