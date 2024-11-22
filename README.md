@@ -31,4 +31,16 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Math
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
