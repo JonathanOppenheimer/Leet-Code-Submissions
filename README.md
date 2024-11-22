@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2411-spiral-matrix-iv](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -30,11 +31,13 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2411-spiral-matrix-iv](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2411-spiral-matrix-iv](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -49,6 +52,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Linked List
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
