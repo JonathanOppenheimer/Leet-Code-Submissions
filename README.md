@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
+| [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -59,6 +60,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -74,6 +76,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -99,6 +102,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
