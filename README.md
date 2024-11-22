@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -109,6 +111,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
