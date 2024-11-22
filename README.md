@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -76,4 +77,12 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
