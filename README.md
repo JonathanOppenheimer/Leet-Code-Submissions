@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
@@ -102,6 +103,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
