@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
+| [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -116,4 +117,12 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
