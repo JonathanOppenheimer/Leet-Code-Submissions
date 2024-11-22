@@ -43,4 +43,12 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
