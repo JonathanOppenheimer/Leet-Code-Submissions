@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +62,8 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
