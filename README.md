@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
