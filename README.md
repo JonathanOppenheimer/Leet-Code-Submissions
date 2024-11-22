@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -71,6 +72,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
