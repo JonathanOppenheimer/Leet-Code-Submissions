@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1755-defuse-the-bomb](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1755-defuse-the-bomb) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
