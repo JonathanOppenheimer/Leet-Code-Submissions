@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0050-powx-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -176,4 +177,8 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
