@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0050-powx-n) |
+| [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -107,6 +108,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -188,4 +190,12 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0050-powx-n) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
