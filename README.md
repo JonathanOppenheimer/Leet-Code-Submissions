@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1755-defuse-the-bomb](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1755-defuse-the-bomb) |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -95,6 +97,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -117,6 +120,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
