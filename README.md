@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -105,6 +106,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
@@ -200,4 +202,8 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1086-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
