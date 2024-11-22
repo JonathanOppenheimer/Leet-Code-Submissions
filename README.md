@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
@@ -101,6 +102,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0120-triangle](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
