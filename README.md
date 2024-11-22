@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3451-string-compression-iii) |
 ## String Matching
