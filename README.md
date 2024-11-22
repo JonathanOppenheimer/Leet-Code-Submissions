@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
+| [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0179-largest-number](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -168,4 +170,8 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
