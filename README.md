@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0747-min-cost-climbing-stairs](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1002-maximum-width-ramp](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1755-defuse-the-bomb](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1364-tuple-with-same-product) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -182,6 +184,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1364-tuple-with-same-product) |
 ## Quickselect
 |  |
 | ------- |
