@@ -12,31 +12,5 @@ class Solution:
             if count > 1:
                 index = i
                 break
-
-        print("index: " + str(index))
+    
         return(ceil((index + 1)/3))
-
-        # if max(counts) == 1:
-        #     return 0
-        
-        # cur_index = 0
-        # n = len(nums)
-
-        # print(counts)
-        # while cur_index < n:
-        #     num = nums[cur_index]
-        #     print(num)
-        #     if counts[num] == 1:
-        #         cur_index += 1 
-        #         continue 
-        #     else: 
-        #         removals += 1
-        #         counts[num] -= 1
-        #         if cur_index + 1 < n: counts[nums[cur_index + 1]] -= 1
-        #         if cur_index + 2 < n: counts[nums[cur_index + 2]] -= 1
-        #         cur_index += 3 
-
-        # return removals 
-
-
- 
