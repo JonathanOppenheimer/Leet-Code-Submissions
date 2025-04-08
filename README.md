@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repository contains my solutions to LeetCode coding problems. This reposito
 | [0347-top-k-frequent-elements](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/1364-tuple-with-same-product) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JonathanOppenheimer/Leet-Code-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
 | ------- |
